@@ -149,8 +149,6 @@ sudo raspi-config
 
 ### Remove Bloatware on the Raspberry Pi
 
-- https://github.com/raspberrycoulis/remove-bloat
-
 ```
 sudo curl -fsSL https://raw.githubusercontent.com/JoaquimLey/raspberrypi-headless-setup/master/pi_bloat_remove.sh | sudo bash
 ```
