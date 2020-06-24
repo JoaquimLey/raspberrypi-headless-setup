@@ -1,3 +1,10 @@
+# Raspberry Pi Headless Setup
+
+Check the article here for a step-by-step guide:
+
+- https://www.joaquimley.com/blog/raspberrypi-headless-setup/
+
+
 # Setup
 
 1. Insert SD card into your local machine
