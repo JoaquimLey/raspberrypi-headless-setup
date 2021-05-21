@@ -183,5 +183,5 @@ sudo apt-get install git
 ### Update packages to the latest version
 
 ```bash
-sudo apt-get update && sudo apt-full-upgrade
+sudo apt-get update && sudo apt full-upgrade
 ```
